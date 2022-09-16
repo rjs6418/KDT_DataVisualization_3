@@ -1,2 +1,12 @@
-# KDT_DataVisualization_3
-K-DigitalTraining/BigData/EngineeringProject/Team3
+# 관악구에서 장사하기
+## 강사님시각화어떻게하조
+김건우, 강태환, 박상권, 최진호
+
+
+### 관악구 상권에서 음식점을 개업 할 시, 기본 입지 조건과 위치별 고려해야할 요소 분석 및 시각화
+
+
+### 자세한 내용은 프레젠테이션 PDF 참조
+
+
+### 다수의공공데이터를 활용하였으며, Python과 Pandas를 활용하여 분석
